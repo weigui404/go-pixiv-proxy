@@ -23,13 +23,13 @@ var (
 	indexHtml     string
 	directTypes   = []string{"img-original", "img-master", "c", "user-profile", "img-zip-ugoira"}
 	imgTypes      = []string{"original", "regular", "small", "thumb", "mini"}
-	docExampleImg = `![regular](http://example.com/98505703?t=regular)
+	docExampleImg = `![regular](http://example.com/92898989?t=regular)
 
-![small](http://example.com/98505703?t=small)
+![small](http://example.com/92898989?t=small)
 
-![thumb](http://example.com/98505703?t=thumb)
+![thumb](http://example.com/92898989?t=thumb)
 
-![mini](http://example.com/98505703?t=mini)`
+![mini](http://example.com/92898989?t=mini)`
 )
 
 type Illust struct {
